@@ -332,6 +332,7 @@ Each language community maintains its own membership.
 * [nodejs-el - Greek (Ελληνικά)](https://github.com/nodejs/nodejs-el)
 * [nodejs-es - Spanish (Español)](https://github.com/nodejs/nodejs-es)
 * [nodejs-fa - Persian (فارسی)](https://github.com/nodejs/nodejs-fa)
+* [nodejs-fa(Esfahan) - Persian (فارسی)](https://t.me/joinchat/C-p1A0x2luVV3L4leFYYMg)
 * [nodejs-fi - Finnish (Suomi)](https://github.com/nodejs/nodejs-fi)
 * [nodejs-fr - French (Français)](https://github.com/nodejs/nodejs-fr)
 * [nodejs-he - Hebrew (עברית)](https://github.com/nodejs/nodejs-he)
